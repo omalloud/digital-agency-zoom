@@ -25,7 +25,7 @@ const PopupMenu = () => {
               <div className="logo2">
                 <Link href="/">
                   <a>
-                    <img src={LogoImage.light} alt="" />
+                    <img src={LogoImage.light} alt="oussama malloud" width="100px"/>
                   </a>
                 </Link>
               </div>
