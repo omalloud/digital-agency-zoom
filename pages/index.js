@@ -22,7 +22,7 @@ const HomeOne = () => {
   return (
     <MenuContextProvider>
       <SearchContextProvider>
-        <Layout PageTitle="Digital Agency - Oussama Malloud">
+        <Layout PageTitle="Digital Agency - zakaria babahaj">
           <HeaderOne />
           <SliderOne />
           <ServiceTwo />
