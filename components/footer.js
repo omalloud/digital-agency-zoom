@@ -24,13 +24,13 @@ const Footer = () => {
             <aside className="widget contact_widgets">
               <h3 className="widget_title">contact</h3>
               <p>
-                41 Bab AL Manssour Marjane 6
+                N 223 Bab AL Manssour Marjane 6
                 <br />
                 MOROCCO
               </p>
               <p>TEL: +212 6 88 11 28 61</p>
               <p>
-                E: <a href="#">malloud321@gmail.com</a>
+                E: <a href="#">z.babahaj@gmail.com</a>
               </p>
             </aside>
           </div>
@@ -61,7 +61,7 @@ const Footer = () => {
           <div className="col-lg-12 col-sm-12 text-center">
             <div className="copyright">
               © copyright {new Date().getFullYear()} by{" "}
-              <a href="https://www.oussamalloud.me/" target="_blank">oussamalloud.me</a>
+              <a href="#" target="_blank">zakaria babahaj</a>
             </div>
           </div>
         </div>
