@@ -1,5 +1,5 @@
-import logoLight from "@/images/logo3.png";
-import logoDark from "@/images/logo3.png";
+import logoLight from "@/images/logo4.png";
+import logoDark from "@/images/logo4.png";
 
 export const LogoImage = {
   light: logoLight,
